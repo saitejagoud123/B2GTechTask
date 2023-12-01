@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/B2GTechTask.Infrastructure/bin/Debug/net6.0
+/B2GTechTask.Core/bin/Debug/net6.0
+/B2GTechTask/bin/Debug/net6.0
+/B2GTechTask/obj
+/B2GTechTask.Core/obj
+/B2GTechTask.Infrastructure/obj
+/.vs
